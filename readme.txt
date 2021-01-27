@@ -1,1 +1,2 @@
-İlk git için deneme
+asdasdaİlk git için deneme
+comment
