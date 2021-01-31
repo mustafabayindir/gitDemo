@@ -1,4 +1,6 @@
 asdasdaİlk git için deneme
 bakalım ne oluyor
 comment
-bunda oeki ?
+bunda peki ?
+bu da başla bir güncelleme denemesi
+myBranhces daki ReadMe bu
