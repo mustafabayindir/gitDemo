@@ -3,4 +3,4 @@ bakalým ne oluyor
 comment
 bunda peki ?
 bu da baþla bir güncelleme denemesi
-myBranhces daki ReadMe bu
+my umarým çok fazla soruna neden olmaz
